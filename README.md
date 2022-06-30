@@ -1,6 +1,6 @@
 
 <p align="left"><h2>Hello, Visitor! 👋</h2>
--  🧑 I'm <b>Ian</b>, a Brazilian currenty living in Portugal  🇵🇹
+-  🧑 I'm <b>Ian</b>, a Brazilian currently living in Portugal  🇵🇹
 <br>
 <br>
 <div align="center">
