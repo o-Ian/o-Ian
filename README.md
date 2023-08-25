@@ -4,7 +4,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&username=o-Ian" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&username=o-Ian" height="150" alt="languages graph"  />
 </div>
 <br>
 - 👨‍💻 As a <b> Fullstack Sotfware Enginner</b>, I have knowledge in these languages 👇
